@@ -1,4 +1,5 @@
-# dio-lab-first-token-ethereum
+# Nome do repositório no GitHub: dio-lab-first-token-ethereum
+
 # MPT Coin - Meu Primeiro Token
 
 MPT Coin (Meu Primeiro Token) é um projeto desenvolvido para atender ao laboratório DIO, demonstrando a criação de um token baseado no padrão ERC20 da rede Ethereum.
